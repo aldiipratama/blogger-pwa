@@ -2,13 +2,13 @@
   "name": "My Blog",
   "id": "/",
   "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "description": "My blog",
   "version": "1.0",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "id-ID",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://alxdyy.blogspot.com/?utm_source=homescreen",
+  "scope": "https://alxdyy.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -112,32 +112,6 @@
       "type": "image/png",
       "sizes": "720x540",
       "form_factor": "wide"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "icons/android-chrome-96x96.png",
-          "sizes": "96x96"
-        }
-      ]
-    },
-    {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
-      "icons": [
-        {
-          "src": "icons/android-chrome-96x96.png",
-          "sizes": "96x96"
-        }
-      ]
     }
   ]
 }
